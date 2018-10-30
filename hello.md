@@ -3,7 +3,7 @@ home: true
 actionText: Get Started →
 actionLink: /guide/
 features:
-- title: Simplicity First
+- title: Simplicity First - Hey IM514,this uses Bootstrap
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
 - title: Vue-Powered
   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
